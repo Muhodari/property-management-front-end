@@ -82,3 +82,6 @@ export { Card, CardHeader, CardFooter, CardTitle, CardDescription, CardContent }
 
 // Feature: Add financial reporting features
 // Added on 2025-02-25T05:39:02.674Z
+
+// Feature: Add tenant communication system
+// Added on 2025-02-28T06:52:57.909Z

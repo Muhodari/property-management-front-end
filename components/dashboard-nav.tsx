@@ -98,3 +98,6 @@ export function DashboardNav() {
 
 // Feature: Implement document upload functionality
 // Added on 2025-02-24T17:26:43.468Z
+
+// Feature: Implement user role management
+// Added on 2025-03-02T19:54:33.938Z

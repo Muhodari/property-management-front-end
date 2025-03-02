@@ -62,3 +62,6 @@ export { Button, buttonVariants }
 
 // Feature: Implement tenant management system
 // Added on 2025-02-23T17:02:05.056Z
+
+// Feature: Add document sharing capabilities
+// Added on 2025-03-02T07:42:14.732Z

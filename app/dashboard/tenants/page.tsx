@@ -813,3 +813,6 @@ export default function TenantsPage() {
 
 // Feature: Implement lease management
 // Added on 2025-02-28T19:05:17.114Z
+
+// Feature: Add notification system
+// Added on 2025-03-03T08:06:53.144Z

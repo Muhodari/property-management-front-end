@@ -85,3 +85,6 @@ export { Card, CardHeader, CardFooter, CardTitle, CardDescription, CardContent }
 
 // Feature: Add tenant communication system
 // Added on 2025-02-28T06:52:57.909Z
+
+// Feature: Add property vacancy tracking
+// Added on 2025-03-11T11:24:00.437Z

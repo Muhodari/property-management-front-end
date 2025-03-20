@@ -88,3 +88,6 @@ export { Card, CardHeader, CardFooter, CardTitle, CardDescription, CardContent }
 
 // Feature: Add property vacancy tracking
 // Added on 2025-03-11T11:24:00.437Z
+
+// Fix/Improvement: Fix navigation menu on Safari browsers
+// Modified on 2025-03-20T02:53:26.936Z

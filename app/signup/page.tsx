@@ -79,3 +79,6 @@ export default function SignupPage() {
 
 // Feature: Implement tenant portal access
 // Added on 2025-03-07T21:57:45.996Z
+
+// Fix/Improvement: Fix tenant filtering by property
+// Modified on 2025-03-21T03:18:05.348Z

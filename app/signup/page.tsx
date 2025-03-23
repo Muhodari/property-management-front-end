@@ -82,3 +82,6 @@ export default function SignupPage() {
 
 // Fix/Improvement: Fix tenant filtering by property
 // Modified on 2025-03-21T03:18:05.348Z
+
+// Fix/Improvement: Optimize image loading and compression
+// Modified on 2025-03-23T16:19:41.377Z

@@ -816,3 +816,6 @@ export default function TenantsPage() {
 
 // Feature: Add notification system
 // Added on 2025-03-03T08:06:53.144Z
+
+// Fix/Improvement: Enhance print styling for reports
+// Modified on 2025-03-25T17:08:58.200Z

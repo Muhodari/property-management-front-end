@@ -91,3 +91,6 @@ export { Card, CardHeader, CardFooter, CardTitle, CardDescription, CardContent }
 
 // Fix/Improvement: Fix navigation menu on Safari browsers
 // Modified on 2025-03-20T02:53:26.936Z
+
+// Fix/Improvement: Fix document preview for PDF files
+// Modified on 2025-03-26T05:21:17.406Z

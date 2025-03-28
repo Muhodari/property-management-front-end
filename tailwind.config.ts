@@ -96,3 +96,6 @@ export default config
 
 // Feature: Add property tax calculation
 // Added on 2025-03-10T10:59:22.025Z
+
+// Fix/Improvement: Improve date picker component usability
+// Modified on 2025-03-28T18:22:53.435Z

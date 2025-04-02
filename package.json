@@ -1,5 +1,5 @@
 {
-  "name": "my-v0-project",
+  "name": "propertypro",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -70,4 +70,3 @@
     "typescript": "^5"
   }
 }
-// Simulated initial commit note on 2025-02-01T20:12:19.205Z
